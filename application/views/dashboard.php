@@ -1,0 +1,1 @@
+Dashboard berisi informasi terbaru Sistem Informasi Absensi

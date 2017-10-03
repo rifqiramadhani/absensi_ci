@@ -1,0 +1,20 @@
+body{
+	background-color: #fff;
+}
+
+#login-box{
+	width: 80%;
+	height: 60%;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 20%;
+	margin-bottom: 20%;
+	padding: 10px;
+}
+
+
+.header-login{
+	text-align: center;
+	font-weight: bold;
+	color: #ccc;
+}
